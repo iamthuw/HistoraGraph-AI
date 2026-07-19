@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+
+# Node
+node_modules/
+dist/
+
+
+# IDE
+.vscode/
+.idea/
+
+
+# Database
+postgres_data/
+neo4j_data/
+qdrant_data/
+
+
+# OS
+.DS_Store
+Thumbs.db
