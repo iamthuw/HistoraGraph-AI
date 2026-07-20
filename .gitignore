@@ -30,9 +30,16 @@ qdrant_data/
 .DS_Store
 Thumbs.db
 
-# Environment
+
+# Environment files
 backend/.env
+backend/.env.local
+backend/.env.docker
+
 frontend/.env
+frontend/.env.local
+frontend/.env.docker
+
 
 # Python virtual environment
 backend/.venv/
