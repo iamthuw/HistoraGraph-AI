@@ -15,7 +15,12 @@ dist/
 .idea/
 
 
-# Database
+# Database volumes
+database/postgres/
+database/neo4j/
+database/qdrant/
+
+# Docker volumes
 postgres_data/
 neo4j_data/
 qdrant_data/
