@@ -24,3 +24,10 @@ qdrant_data/
 # OS
 .DS_Store
 Thumbs.db
+
+# Environment
+backend/.env
+frontend/.env
+
+# Python virtual environment
+backend/.venv/
